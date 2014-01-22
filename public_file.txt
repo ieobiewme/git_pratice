@@ -6,3 +6,4 @@ create local branch starting any remote branch
 
 
 test merge ------ vb
+test merge ------ host
