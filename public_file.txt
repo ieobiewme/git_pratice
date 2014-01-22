@@ -2,3 +2,7 @@ first, create repo on the github web interface
 better with a README file, otherwise there will be no HEAD ref???
 
 create local branch starting any remote branch
+
+
+
+test merge ------ vb
